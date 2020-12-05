@@ -15,3 +15,5 @@ adalah bagian tersendiri dari konsep OOP untuk membuat satu atau lebih object, b
 ### Instance
 
 yaitu objek yang dibentuk oleh sabuah class, instance bisa dibuat lebih dari satu. contohnya class mobil, instance antara lain, mobil balap, mobil kota, mobil ramah lingkungan. 
+
+[sumber](https://rifkifahrurozi.blogspot.com/2016/03/apa-itu-class-object-dan-instance-dalam.html)
