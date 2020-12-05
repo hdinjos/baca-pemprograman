@@ -2,3 +2,8 @@
 
 OOP (Object Oriented Programming) merupakan konsep atau cara untuk menulis sebuah kode program yang mengambil pendekatan objek/benda di dunia nyata.
 
+Istilah dalam OOP, **object**, **class**, **instance**, **property**, dan **method**
+
+### Object
+
+merupakan implementasi dari objek di dunia nyata dalam bentuk kode program yang mempunyai property (ciri - ciri) dan method (perliku). semisal benda **mobil**. warnanya **merah**, **berac**, **sangat kencang** itu semua adalah ciri-ciri/**property** yang dimiliki oleh mobil, kemudian mobil **dapat melaju** dengan kecepatan 10 km/jam, dapat digunakan untuk **mengangkut barang**/orang. kata **melaju** dan mengangkut **merupakan** perilaku/method dari objek mobil. biasanya **property** berhubungan dengan **variabel** dan **method** berhubungan dengan **fungsi**
